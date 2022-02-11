@@ -3,9 +3,9 @@
 # Tic-Tac-Toe
 This project has multiply sub projects.
 <br>
--> Simple tic tac toe (console) made using c++
+-> Simple Tic Tac Toe (console) made using c++
 <br>
--> tic tac toe (winfrom) made using c#
+-> Tic Tac Toe (winfrom) made using c#
 
 ## 🛠 Skills
 C++, C#
@@ -13,9 +13,9 @@ C++, C#
 
 ## Screenshots
 ### Tic Tac Toe (console) C++
-![App Screenshot](https://github.com/imumer12/Hangman/blob/main/Resources/Hangman.png)
+![App Screenshot](https://github.com/imumer12/Tic-Tac-Toe/blob/main/Resources/tic-tac-toe1.png)
 ### Tic Tac Toe (winfrom) C#
-![App Screenshot](https://github.com/imumer12/Hangman/blob/main/Resources/Hangman.png)
+![App Screenshot](https://github.com/imumer12/Tic-Tac-Toe/blob/main/Resources/TicTacToe2.png)
 
 
 ## License
