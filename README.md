@@ -25,5 +25,3 @@ C#
 ## Support
 
 For support, email umerahmed1000@gmail.com
-
-
